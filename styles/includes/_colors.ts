@@ -1,0 +1,8 @@
+export const layoutBackgroundColor = '#2c314e'
+export const cardBackgroundColor = '#f8f9fd'
+export const alertSuccessBackgroundColor = '#7ed321'
+export const ctDarkRedColor = '#9f290f'
+export const darkBlue = '#27374d'
+export const darkBlack = '#000000'
+export const whiteColor = '#fff'
+export const red = '#CB3100'
